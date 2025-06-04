@@ -1,0 +1,102 @@
+ol{
+    background-color: blue;
+    border-radius: 20px 20px 20px;
+    height: 470px;
+    width: 500px;
+    padding-left: 20px;
+    margin-left: 300px;
+}
+
+li{
+     display: inline-table;
+    position: absolute;
+    color: white;
+}
+#one{
+    padding-left: 350px;
+    font-size: 40px;
+}
+#two{
+    padding-top: 70px;
+    padding-left: 450px;
+    font-size: 40px;
+}
+#three{
+    padding-top: 200px;
+    padding-left: 450px;
+    font-size: 40px;
+}
+#four{
+    padding-top: 350px;
+    padding-left: 450px;
+    font-size: 40px;
+}
+#five{
+    padding-top: 420px;
+    padding-left: 350px;
+    font-size: 40px;
+}
+#six{
+    padding-top: 420px;
+    padding-left: 200px;
+    font-size: 40px;
+}
+#seven{
+    padding-top: 420px;
+    padding-left: 50px;
+    font-size: 40px;
+}
+#eight{
+    padding-top: 350px;
+    font-size: 40px;
+}
+#nine{
+    padding-top: 200px;
+    font-size: 40px;
+}
+#ten{
+    padding-top: 70px;
+    font-size: 40px;
+}
+#elevn{
+   padding-left: 70px;
+    font-size: 40px;
+}
+#twelve{
+   padding-left: 200px;
+    font-size: 40px;
+}
+#big{
+    background-color: whitesmoke;
+    margin-top: 40px;
+    height: 190px;
+    width: 8px;
+    margin-left: 220px;
+    border-radius: 50px 50px 0px 10px;
+}
+#small{
+    background-color: rgb(209, 202, 202);
+    margin-top: 150px;
+    height: 152px;
+    width: 8px;
+    margin-left: 298px;
+    border-radius: 50px 50px 0px 10px;
+    transform: rotate(90deg);
+}
+#needle{
+    background-color: rgb(142, 141, 141);
+    margin-top: 228px;
+    height: 200px;
+    width: 5px;
+    margin-left: 220px;
+    border-radius: 10px 10px 0px 10px;
+    transform: rotate(180deg);
+}
+#dot{
+    background-color: gold;
+    height: 20px;
+    width: 20px;
+    margin-left: 215px;
+    margin-top: 215px;
+    border-radius: 10px;
+}
